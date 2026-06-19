@@ -1,0 +1,9 @@
+{
+  "name": "Activ-IT",
+  "short_name": "Activ-IT",
+  "description": "ICT consultancy and IT support for home users, schools, charities and organisations across the UK.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#0f3d5e"
+}
